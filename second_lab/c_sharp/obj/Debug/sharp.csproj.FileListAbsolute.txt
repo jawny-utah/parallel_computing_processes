@@ -1,0 +1,8 @@
+C:\Users\slide\Desktop\second_lab\c_sharp\bin\Debug\sharp.exe.config
+C:\Users\slide\Desktop\second_lab\c_sharp\bin\Debug\sharp.exe
+C:\Users\slide\Desktop\second_lab\c_sharp\bin\Debug\sharp.pdb
+C:\Users\slide\Desktop\second_lab\c_sharp\obj\Debug\sharp.csproj.AssemblyReference.cache
+C:\Users\slide\Desktop\second_lab\c_sharp\obj\Debug\sharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\slide\Desktop\second_lab\c_sharp\obj\Debug\sharp.csproj.CoreCompileInputs.cache
+C:\Users\slide\Desktop\second_lab\c_sharp\obj\Debug\sharp.exe
+C:\Users\slide\Desktop\second_lab\c_sharp\obj\Debug\sharp.pdb
